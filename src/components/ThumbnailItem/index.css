@@ -1,0 +1,26 @@
+/* Write your code here. */
+.img-items-container {
+  margin-right: 16px;
+  margin-bottom: 16px;
+}
+.seActiveThumbnailId {
+  background: transparent;
+  border: none;
+  padding: 0px;
+  outline: none;
+  cursor: pointer;
+}
+
+.thumbnail {
+  width: 60px;
+  height: 60px;
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}
+.thumbnail-button {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+}
